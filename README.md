@@ -1,8 +1,10 @@
 # Hi, I'm Akhmat Oktafian Febriyan 👋
 
-Full-stack developer based in Jakarta, focused on the backend: databases, APIs and the logic that connects them.
+Full-stack developer based in Jakarta who leans toward the backend. I enjoy designing database schemas, building APIs, and writing the business logic that sits between them, then making sure it's covered by tests.
 
-[Portfolio](https://akhmat-oktafian.vercel.app)
+- 🔭 Currently getting deeper into **Go** and **PostgreSQL**
+- 🌱 Open to **junior backend or full-stack** roles
+- 📫 More about me and my work: [akhmat-oktafian.vercel.app](https://akhmat-oktafian.vercel.app)
 
 ## Tech stack
 
