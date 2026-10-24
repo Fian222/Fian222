@@ -2,7 +2,7 @@
 
 Full-stack developer based in Jakarta who leans toward the backend. I enjoy designing database schemas, building APIs, and writing the business logic that sits between them, then making sure it's covered by tests.
 
-- 🔭 Currently getting deeper into **Go** and **PostgreSQL**
+- 🔭 Currently getting deeper into **Go** and **Bun**
 - 🌱 Open to **junior backend or full-stack** roles
 - 📫 More about me and my work: [akhmat-oktafian.vercel.app](https://akhmat-oktafian.vercel.app)
 
