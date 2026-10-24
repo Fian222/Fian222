@@ -1,4 +1,4 @@
-# Akhmat Oktafian Febriyan
+# Hi, I'm Akhmat Oktafian Febriyan 👋
 
 Full-stack developer based in Jakarta, focused on the backend: databases, APIs and the logic that connects them.
 
